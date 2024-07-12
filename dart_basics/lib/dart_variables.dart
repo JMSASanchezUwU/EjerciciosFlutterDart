@@ -10,7 +10,7 @@ void main(){
   int numero = 1000;
   int numero2 = 3000;
   int s = suma(numero, numero2);
-  print('La luma de $numero mas $numero2 es \$ $s');
+  print('La suma de $numero mas $numero2 es \$ $s');
 
  double calificacion1 = 10.0, calificacion2 = 7.6, calificacion3 = 9.0;
  print(promedio(calificacion1, calificacion2, calificacion3));
